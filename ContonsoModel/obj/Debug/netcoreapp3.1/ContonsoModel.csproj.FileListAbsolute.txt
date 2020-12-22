@@ -1,0 +1,9 @@
+C:\Users\Hasyeef\source\repos\Capstone1\ContonsoModel\bin\Debug\netcoreapp3.1\ContonsoModel.deps.json
+C:\Users\Hasyeef\source\repos\Capstone1\ContonsoModel\bin\Debug\netcoreapp3.1\ContonsoModel.dll
+C:\Users\Hasyeef\source\repos\Capstone1\ContonsoModel\bin\Debug\netcoreapp3.1\ContonsoModel.pdb
+C:\Users\Hasyeef\source\repos\Capstone1\ContonsoModel\obj\Debug\netcoreapp3.1\ContonsoModel.csprojAssemblyReference.cache
+C:\Users\Hasyeef\source\repos\Capstone1\ContonsoModel\obj\Debug\netcoreapp3.1\ContonsoModel.AssemblyInfoInputs.cache
+C:\Users\Hasyeef\source\repos\Capstone1\ContonsoModel\obj\Debug\netcoreapp3.1\ContonsoModel.AssemblyInfo.cs
+C:\Users\Hasyeef\source\repos\Capstone1\ContonsoModel\obj\Debug\netcoreapp3.1\ContonsoModel.csproj.CoreCompileInputs.cache
+C:\Users\Hasyeef\source\repos\Capstone1\ContonsoModel\obj\Debug\netcoreapp3.1\ContonsoModel.dll
+C:\Users\Hasyeef\source\repos\Capstone1\ContonsoModel\obj\Debug\netcoreapp3.1\ContonsoModel.pdb
